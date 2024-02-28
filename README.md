@@ -44,14 +44,18 @@ Highlight some of the projects you're currently working on or have contributed t
 -->
 
 # 💻 Experience
-- **2022 - currently → Dublin City University:**
-  **Researcher | Data Scientist**
+- **2022 - currently → Dublin City University: Researcher | Data Scientist**
   * Develop software for collecting and managing databases in various business areas.
   * Develop software for data analysis and visualization, in order to identify patterns relevant to business insights.
   * Create mathematical models for classification tasks in different business areas.
   * Development of Large Language Models for text classification applied to social media data.
-- **2016 - 2022 → GPRT:**
-  **Technical manager**
+
+- **June 2022 - December 2022  → Shimmer : Data scientist**
+  * Collaborate with the design and engineering of the company's systems to develop an understanding of needs.
+  * Research and develop innovative statistical models for data analysis.
+  * Develop machine learning models (with a focus on neural networks) to extract metrics of interest on medical data measured from company devices.
+  
+- **2016 - 2022 → GPRT: Technical manager**
   * Development and research solutions for cloud data center management with focus on availability.
   * Development of web application that provides a user-friendly interface for the data centers planning and management.
   * Worked with optimization tools to maximize the cloud data center availability taking into account the infrastructure cost.
