@@ -71,14 +71,14 @@ Highlight some of the projects you're currently working on or have contributed t
 
 - gutoleoni89@gmail.com
 - [LinkedIn Profile](https://www.linkedin.com/in/guto-leoni-santos-32064910b/)
-- [Google Scholar](https://scholar.google.com/citations?user=ZxbRwRMAAAAJ&hl=pt-BR&oi=ao)
+- [Google Scholar: my scientific papers](https://scholar.google.com/citations?user=ZxbRwRMAAAAJ&hl=pt-BR&oi=ao)
 
 
 ## Let's Connect!
 
 Feel free to connect with me on GitHub and explore my repositories. I'm always open to collaborations and discussions.
 
-[![Follow me on GitHub](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![Follow me on GitHub](https://img.shields.io/github/followers/GutoL?style=social)](https://github.com/GutoL)
 
 
 
