@@ -62,9 +62,9 @@ Highlight some of the projects you're currently working on or have contributed t
   * Worked with simulation and optimization of distributed cloud applied to cellular networks management.
 
 ##  📖 Academic education
-- **2013 - 2016 → Universidade de Pernambuco** <br> Bachelor in Information Systems <br>
-- **2017 - 2019 → Universidade Federal de Pernambuco** <br> Master in Computer Science <br> I created of mathematical models to evaluate the performance of IoT applications for healthcare systems.
-- **2019 - 2023 → Universidade Federal de Pernambuco** <br> PhD in Computer Science <br> I developed a framework based on reinforcement learning algorithms for allocating service function chains in large distributed networks.
+- **2013 - 2016 → Universidade de Pernambuco, Caruaru, Brazil** <br> Bachelor in Information Systems <br>
+- **2017 - 2019 → Universidade Federal de Pernambuco, Recife, Brazil** <br> Master in Computer Science <br> I created of mathematical models to evaluate the performance of IoT applications for healthcare systems.
+- **2019 - 2023 → Universidade Federal de Pernambuco, Recife, Brazil** <br> PhD in Computer Science <br> I developed a framework based on reinforcement learning algorithms for allocating service function chains in large distributed networks.
 
 ## Contact Me
 🤗 Feel free to conctact me:
