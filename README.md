@@ -45,7 +45,7 @@ Highlight some of the projects you're currently working on or have contributed t
 -->
 
 # 💻 Experience
-- **2022 - currently → Dublin City University: Researcher | Data Scientist**
+- **2022 - currently → Dublin City University: Data Scientist | Researcher**
   * Develop software for collecting and managing databases in various business areas.
   * Develop software for data analysis and visualization, in order to identify patterns relevant to business insights.
   * Create mathematical models for classification tasks in different business areas.
