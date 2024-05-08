@@ -45,7 +45,7 @@ Highlight some of the projects you're currently working on or have contributed t
 -->
 
 # 💻 Experience
-- **2022 - currently → Dublin City University: Data Scientist | Researcher**
+- **September 2022 - currently → Dublin City University: Data Scientist | Researcher**
   * Develop software for collecting and managing databases in various business areas.
   * Develop software for data analysis and visualization, in order to identify patterns relevant to business insights.
   * Create mathematical models for classification tasks in different business areas.
@@ -56,7 +56,7 @@ Highlight some of the projects you're currently working on or have contributed t
   * Research and develop innovative statistical models for data analysis.
   * Develop machine learning models (with a focus on neural networks) to extract metrics of interest on medical data measured from company devices.
   
-- **2016 - 2022 → GPRT: Technical manager**
+- **August 2016 - May 2022 → GPRT (UFPE) : Technical manager**
   * Development and research solutions for cloud data center management with focus on availability.
   * Development of web application that provides a user-friendly interface for the data centers planning and management.
   * Worked with optimization tools to maximize the cloud data center availability taking into account the infrastructure cost.
@@ -72,7 +72,7 @@ Highlight some of the projects you're currently working on or have contributed t
 
 - gutoleoni89@gmail.com
 - [LinkedIn Profile](https://www.linkedin.com/in/guto-leoni-santos-32064910b/)
-- [Google Scholar: my scientific papers](https://scholar.google.com/citations?user=ZxbRwRMAAAAJ&hl=pt-BR&oi=ao)
+- [Google Scholar (my scientific papers)](https://scholar.google.com/citations?user=ZxbRwRMAAAAJ&hl=pt-BR&oi=ao)
 
 
 ## Let's Connect!
