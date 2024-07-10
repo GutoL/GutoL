@@ -46,21 +46,27 @@ Highlight some of the projects you're currently working on or have contributed t
 
 # 💻 Experience
 - **September 2022 - currently → Dublin City University: Data Scientist | Researcher**
-  * Develop software for collecting and managing databases in various business areas.
-  * Develop software for data analysis and visualization, in order to identify patterns relevant to business insights.
-  * Create mathematical models for classification tasks in different business areas.
-  * Development of Large Language Models for text classification applied to social media data.
+  * Develop and maintain software for data management, including storing, extracting, transforming, and loading (ETL) datasets using Google Cloud Platform across various business areas.
+  * Design and implement data analysis and visualization tools to identify patterns and generate actionable business insights.
+  * Create and optimize machine learning models for regression and classification tasks, leveraging datasets to drive predictive analytics.
+  * Specialize in developing and fine-tuning Large Language Models (LLMs) for text classification applications across diverse business fields.
+  * Build and enhance platforms for simplified data visualization and analysis, facilitating better decision-making processes.
+
 
 - **June 2022 - December 2022  → Shimmer : Data scientist**
-  * Collaborate with the design and engineering of the company's systems to develop an understanding of needs.
-  * Research and develop innovative statistical models for data analysis.
-  * Develop machine learning models (with a focus on neural networks) to extract metrics of interest on medical data measured from company devices.
+  * Collaborate with design and engineering teams to understand system requirements and identify business needs.
+  * Research and develop innovative statistical models for comprehensive data analysis.
+  * Develop and implement machine learning models (with a focus on neural networks) to analyse time series data and predict key metrics aligned with company objectives.
+  * Utilize health data measured from company devices as input to drive predictive analytics and enhance decision-making processes.
   
 - **August 2016 - May 2022 → GPRT (UFPE) : Technical manager**
-  * Development and research solutions for cloud data center management with focus on availability.
-  * Development of web application that provides a user-friendly interface for the data centers planning and management.
-  * Worked with optimization tools to maximize the cloud data center availability taking into account the infrastructure cost.
-  * Worked with simulation and optimization of distributed cloud applied to cellular networks management.
+  * Technical Manager responsible for assigning tasks to team members while also contributing as a software engineer.
+  * Research and develop solutions for cloud data center management with a focus on optimizing availability and infrastructure cost.
+  * Design and develop web applications using Java and Angular to provide a user-friendly interface for data center planning and management.
+  * Create and implement mathematical models to represent data center components and measure various metrics, such as availability.
+  * Develop and apply optimization algorithms to enhance data center compositions and optimize virtual functions placement, particularly in the context of cellular networks.
+  * Implement simulation and optimization tools for managing distributed cloud systems applied to cellular networks, ensuring efficient and cost-effective operations.
+
 
 ##  📖 Academic education
 - **2013 - 2016 → Universidade de Pernambuco, Caruaru, Brazil** <br> Bachelor in Information Systems <br>
