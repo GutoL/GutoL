@@ -1,6 +1,6 @@
 # Hi everyone 👋
 ## About me
-- 😊 I'm **Guto Leoni Santos**, a data scientist and researcher based in Dublin, Ireland. Currently, I'm working with Large Language Models (LLMs) for text classification applications in business contexts at Dublin City University.
+- 😊 I'm **Guto Leoni Santos**, a data scientist and researcher currently working with Generative AI at AWS Generative AI Innovation Center. Part of my job is to plan solution for different costumers that wants to use generative AI to impulse their business.
 - 🌍 Over the past **six years**, I've been building AI-driven solutions with applications in **economics, health, business**, and computing, often collaborating with governments and private enterprises to deliver impactful projects.
 
 <!--
@@ -51,8 +51,14 @@ Highlight some of the projects you're currently working on or have contributed t
 
 ## 💼 Professional Experience
 
+- **Data Scientist**  
+  *AWS Generative AI Innovation Center – Jan 2025 to present*  
+  - **Engage directly with customers** to understand their challenges and identify opportunities for Generative AI solutions.
+  - **Design and implement AI-powered applications**, selecting the best models and techniques to address specific business needs.
+  - **Leverage and evaluate Generative AI models**, ensuring optimal performance and alignment with customer objectives.
+  - **Collaborate with cross-functional teams** to integrate AI-driven solutions into enterprise workflows, driving innovation at scale.
 - **Data Scientist | Researcher**  
-  *Dublin City University – Sep 2022 to Present*  
+  *Dublin City University – Sep 2022 to Dec 2024*  
   - Building and managing scalable data pipelines and ETL processes on **Google Cloud Platform**, processing millions of data samples efficiently.
   - Creating Python tools to collect vast datasets, including social media data, for large-scale analysis.
   - Designing and deploying predictive models (e.g., supervised/unsupervised and ensemble methods) that cut error rates significantly.
@@ -90,7 +96,7 @@ Highlight some of the projects you're currently working on or have contributed t
 - **Database**: Strong **SQL** skills
 - **Tools & Version Control**: GitHub, Jupyter Notebook, Google Colab
 - **Languages**: Fluent in **English** and **Portuguese**
-- 
+
 ## 📫 Get in Touch!
 - Email: [gutoleoni89@gmail.com](mailto:gutoleoni89@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/guto-leoni-santos-32064910b/)
